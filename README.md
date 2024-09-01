@@ -15,7 +15,7 @@ Github is popular because it makes it easy for multiple developers to work on th
 
 How Version Control Helps Maintain Project Integrity
 
-By keeping a history of changes, version control systems allow you to recover previous versions of your project if something goes wrong. Multiple team members can also work on the same project without interfering with each other’s work, wit th use of branching and merging. Version control systems also keep a detailed log of who made what changes and when, which is invaluable for debugging and auditing1.
+By keeping a history of changes, version control systems allow you to recover previous versions of your project if something goes wrong. Multiple team members can also work on the same project without interfering with each other’s work, wit th use of branching and merging. Version control systems also keep a detailed log of who made what changes and when, which is invaluable for debugging and auditing.
 
 
 
@@ -35,7 +35,7 @@ Add a README file: This file provides an overview of your project.
 Add .gitignore: This file specifies which files and directories to ignore in your repository.
 Choose a License: Adding a license helps others understand what they can and cannot do with your code. 
 
-After all that, we can create Repository by lick the Create repository button to finalize the setup.
+
 
 
 
